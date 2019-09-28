@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="TEXTRIS.PAS"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Textris"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="23"/>
+        <CursorPos Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="11" HistoryIndex="10">
+      <Position1>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="89" Column="35" TopLine="67"/>
+      </Position1>
+      <Position2>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="82" TopLine="69"/>
+      </Position2>
+      <Position3>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="257" Column="13" TopLine="244"/>
+      </Position3>
+      <Position4>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="346" TopLine="333"/>
+      </Position4>
+      <Position5>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="371" TopLine="355"/>
+      </Position5>
+      <Position6>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="702" TopLine="693"/>
+      </Position6>
+      <Position7>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="82" TopLine="69"/>
+      </Position7>
+      <Position8>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="62" TopLine="27"/>
+      </Position8>
+      <Position9>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="85" TopLine="78"/>
+      </Position9>
+      <Position10>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="41" TopLine="23"/>
+      </Position10>
+      <Position11>
+        <Filename Value="TEXTRIS.PAS"/>
+        <Caret Line="21" TopLine="8"/>
+      </Position11>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
